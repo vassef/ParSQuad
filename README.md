@@ -1,6 +1,6 @@
 # ParSQuad
-ParSQuAD is a Persian Question Answering Dataset based on Machine Translation of SQuAD 2.
-Since the implementation of this dataset hasn't been yet implemented in the hugging face, I have prepared the essential set ups in the hugging face to enable using this data set using the load_dataset library :
+[ParSQuAD][https://github.com/NeginAbadani/ParSQuAD] is a Persian Question Answering Dataset based on Machine Translation of SQuAD 2.
+Since the implementation of this dataset hasn't been yet implemented in the hugging face, I have prepared the essential set ups in the [hugging face][https://huggingface.co/datasets/Shayanvsf/ParSQuAD/tree/main] to enable using this data set using the load_dataset library :
 
 **from datasets import load_dataset**
 
